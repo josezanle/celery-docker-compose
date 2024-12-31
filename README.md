@@ -13,7 +13,7 @@ Este proyecto utiliza Celery y Redis para manejar tareas en segundo plano. A con
 
     ```bash
     git clone https://github.com/josezanle/celery-docker-compose.git
-    cd celery
+    cd celery-docker-compose
     ```
 
 2. **Construye y levanta los contenedores:**
